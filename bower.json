@@ -1,0 +1,13 @@
+{
+  "name": "ember-widgets-shim",
+  "version": "0.0.1",
+  "main": [
+    "./ember-widgets.js",
+    "./ember-widgets.css"
+  ],
+  "dependencies": {
+    "ember": "~1.0.0",
+    "ember-list-view": "~0.0.2",
+    "bootstrap": "~3.0.0"
+  }
+}
